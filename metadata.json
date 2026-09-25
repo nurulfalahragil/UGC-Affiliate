@@ -1,0 +1,6 @@
+{
+  "name": "Oval Studio",
+  "description": "All-in-one AI creative suite: Oval Visual, Oval Suara, Oval Design, and Oval Animasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
